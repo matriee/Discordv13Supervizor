@@ -1,0 +1,21 @@
+1	User
+2	Role
+3	Channel
+4	String
+5	Integer
+6	Boolean
+7	Mentionable
+
+/* 
+    And I recommend using interaction.reply
+    Because otherwise you will have to write a text to indicate who the message belongs to, 
+    interaction.reply in slash commands will be best for you.
+*/
+
+
+/*
+ Why using followUp?
+> Because we can reply once in slash commands, but if we want 
+> to write more than one, we can provide multiple replies using followUp. 
+> But it is not a method that I highly recommend.
+*/

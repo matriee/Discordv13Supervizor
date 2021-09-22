@@ -1,0 +1,31 @@
+{
+    "token": "",
+    "Playing": "",
+    "GuildID": "",
+
+
+    "RegisterHammer": "",
+    "BanHammer":" ",
+    "JailHammer": "",
+    "MuteHammer": "",
+
+    "ManRole": "",
+    "WomanRole": "",
+    "Unregister": "",
+    "Suspicius": "",
+    "Tag": "",
+    "Untag": "",
+    "BoosterRole": "",
+
+    "MuteRole": "",
+    "JailRole": "",
+
+    "BanLog": "",
+    "MuteLog": "",
+    "JailLog": "",
+    "RegLog": "",
+
+    "Yes": "",
+    "No": ""
+
+}
